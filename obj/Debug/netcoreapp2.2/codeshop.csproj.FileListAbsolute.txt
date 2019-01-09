@@ -1,0 +1,11 @@
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\firesides\codeshop\bin\Debug\netcoreapp2.2\codeshop.deps.json
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\firesides\codeshop\bin\Debug\netcoreapp2.2\codeshop.runtimeconfig.json
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\firesides\codeshop\bin\Debug\netcoreapp2.2\codeshop.runtimeconfig.dev.json
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\firesides\codeshop\bin\Debug\netcoreapp2.2\codeshop.dll
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\firesides\codeshop\bin\Debug\netcoreapp2.2\codeshop.pdb
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\firesides\codeshop\obj\Debug\netcoreapp2.2\codeshop.csprojAssemblyReference.cache
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\firesides\codeshop\obj\Debug\netcoreapp2.2\codeshop.csproj.CoreCompileInputs.cache
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\firesides\codeshop\obj\Debug\netcoreapp2.2\codeshop.AssemblyInfoInputs.cache
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\firesides\codeshop\obj\Debug\netcoreapp2.2\codeshop.AssemblyInfo.cs
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\firesides\codeshop\obj\Debug\netcoreapp2.2\codeshop.dll
+C:\Users\BoiseCodeWorks\source\CodeWorks\fall18\firesides\codeshop\obj\Debug\netcoreapp2.2\codeshop.pdb
